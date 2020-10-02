@@ -1,0 +1,8 @@
+{
+    "name": "示例插件",
+    "description": "了解插件结构",
+    "version": "1.0",
+    "internalVersion": 1,
+    "author": "imgradeone",
+    "port": false
+}
